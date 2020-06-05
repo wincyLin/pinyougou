@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Lenovo
+Build-Jdk: 10.0.1
+Implementation-Title: Specifi-mapper
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: pin.you.gou
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/Specifi-parent/Specifi-mapper
+Created-By: Maven Integration for Eclipse
+
